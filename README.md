@@ -3,7 +3,7 @@ I'm a developer with experience in Python and Machine Learning, passionate about
 
 ## 🚀 My Skills  
  🤖 **Machine Learning:** Building and fine-tuning NLP models, utilizing Python libraries and RASA.  
- 🤝 **Chatbot Development:** Full development cycle — from creating a dialogue base to API integration.  
+ 🤝 **Chatbot Development:** Full development cycle - from creating a dialogue base to API integration.  
  🌐 **Python in Web Development:** Django, Django REST Framework, Flask, PostgreSQL.  
  💻 **Experience with Other Languages:** JavaScript, C++, C#, Lua, TypeScript.  
  🎮 **Game Development as a Hobby:** Unity  
